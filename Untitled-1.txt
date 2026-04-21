@@ -1,0 +1,2 @@
+inicio
+leer valores de tabla
